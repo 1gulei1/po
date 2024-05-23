@@ -1,0 +1,119 @@
+header img{
+    height: 100px;
+    width: 100px;
+}
+
+header{
+    background-color:aqua;
+}
+
+h2{
+    color:orangered;
+    font-size:40px;
+    padding: 30px;
+}
+
+h2::first-letter {
+    color: brown;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.Margarita{
+    height: 100px;
+    width: 150px;
+}
+
+.Season{
+    height: 100px;
+    width: 150px;
+}
+
+.Hawaiian{
+    height: 100px;
+    width: 150px;
+}
+
+.mushroom{
+    height: 100px;
+    width: 150px;
+}
+
+.meaty{
+    height: 100px;
+    width: 150px;
+}
+
+footer{
+    background-color: darkgreen;
+    color: white;
+}
+
+h1{
+    color: maroon;
+    background-color: yellowgreen;
+}
+
+main p{
+    color: firebrick;
+    font-size: 25px;
+    background-color: olivedrab;
+}
+
+main{
+    background-color: aqua;
+}
+
+.info{
+    display: flex;
+    align-items: center;
+}
+
+nav a{
+    text-decoration: none;
+    border: 1px solid green;
+    background-color: chartreuse;
+}
+
+nav a:hover{
+    color: darkgoldenrod;
+    background-color: darkred;
+}
+
+.Sigma{
+    text-decoration: none;
+    background-color: darkorange;
+    border: 3px solid white;
+}
+
+.Sigma:hover{
+    color: aqua;
+    border: 3px dashed white;
+    background-color: indigo;
+}
+
+summary{
+    color: navy;
+}
+
+.Language{
+    border: 3px dotted firebrick;
+    text-decoration: none;
+    color:black;
+    background-color: lawngreen;
+}
+
+summary:hover{
+   color: turquoise;
+   border: 1px solid green;
+   padding: 5px;
+   background-color: brown;
+}
+
+.Language:hover{
+    border: 3px solid firebrick;
+    color: black;
+    background-color: fuchsia;
+}
